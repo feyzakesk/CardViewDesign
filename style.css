@@ -1,0 +1,35 @@
+body{
+    background: #eaf2d7;
+    
+}
+h1,h2{
+    font-family: 'Roboto',sans-serif;
+}
+h1{
+    color: #a3a0a9;
+    font-size: 32px;
+    font-weight: 900;
+}
+h2{
+    color: #bae4e5;
+    font-weight: 500;
+    font-weight: lighter;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+p{
+    color: #ddd4b3;
+}
+a{
+    color:#043b5c;
+    text-decoration: none;
+    font-weight: 600;
+  font-size: 16px;
+}
+
+a:hover{
+    color: black;
+}
